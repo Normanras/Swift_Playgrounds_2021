@@ -6,11 +6,12 @@
 
 <div style="float:right"><span style="font-family:Helvetica; font-size:12px;"> As I was brushing up on Swift and reviewing the MacOS and iPad OS App Swift Playgrounds to check if my kids were old enough to start learning, I decided to put all my solutions up on GitHub for others to review and use if they get stuck. </span> </div> 
 
-<div style="text-align: left; border=3;"><span style="font-family: Helvetica; font-size:15px">I've opened the discussion section of this repository for anyone needing help or wanting to discuss their solutions and/or bugs.</span></div>
+<div style="text-align: left; border=3;"><span style="font-family: Helvetica; font-size:15px">I've opened the [discussion Section](https://github.com/Normanras/Swift_Playgrounds_2021/discussions) of this repository for anyone needing help or wanting to discuss their solutions and/or bugs.</span></div>
 
 #
 
 # Links
+* [Discussion Section of Repo](https://github.com/Normanras/Swift_Playgrounds_2021/discussions)
 * [Apple's Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 * [Swift Playgrounds on Mac OS App Store](https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12_)
 * [Swift Playgrounds on iOS App Store](https://apps.apple.com/us/app/swift-playgrounds/id908519492)
