@@ -2,17 +2,13 @@
 
 ## Welcome!
 
-&nbsp;
-
 <img style="float:left" src="https://images.squarespace-cdn.com/content/v1/5591f3d8e4b0f0e85cea97bd/1515654414551-0JIA76H6QF1HFG51KQH2/ke17ZwdGBToddI8pDm48kCxghu66RuxdcE1za67s-wJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzOsKD2MMBYfulDydqX_a7PudIt55CjEe9NfBvbkOOHXmWmQKoQs3OEaoPDq0Fb7qM/BluConfetti.gif?format=750w" width="200" height ="200"/>
 
 <div style="float:right"><span style="font-family:Helvetica; font-size:12px;"> As I was brushing up on Swift and reviewing the MacOS and iPad OS App Swift Playgrounds to check if my kids were old enough to start learning, I decided to put all my solutions up on GitHub for others to review and use if they get stuck. </span> </div> 
 
-&nbsp;
-
 <div style="text-align: left; border=3;"><span style="font-family: Helvetica; font-size:15px">I've opened the discussion section of this repository for anyone needing help or wanting to discuss their solutions and/or bugs.</span></div>
 
-&nbsp;
+#
 
 # Links
 * [Apple's Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
