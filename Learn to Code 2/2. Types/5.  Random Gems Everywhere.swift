@@ -1,8 +1,6 @@
 let totalGems = randomNumberOfGems
 var gemCollect = 0
 
-toggleSwitch
-
 func turnAround() {
     turnLeft()
     turnLeft()
