@@ -112,3 +112,5 @@ moveForward()
 moveForward()
 moveForward()
 fourswitch()
+
+toggleSwitch
